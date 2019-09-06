@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ConsumingAPI</string>
+    <string name="card_image_description">Card Image</string>
+    <string name="card_name_title">Flavor Text</string>
+    <string name="card_name_hint">Insert Card Name</string>
+</resources>
